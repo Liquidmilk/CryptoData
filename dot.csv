@@ -1,0 +1,2 @@
+created_at;id;author_id;text;referenced_tweets;retweet_count;reply_count;like_count;quote_count;hashtags;mentions;urls;cashtags;url;verified;description;username;name;author_created_at;followers_count;following_count;tweet_count;listed_count;Influerende;Berettende;Hverken_eller;Duplikat;Har_link
+Sep 09, 2021;1,43608E+18;44196397;@burkov Maybe not, but it’s 99% dot products;[{'type': 'replied_to', 'id': '1436023955190648834'}];698;763;19941;100;[];['burkov'];[];[];;TRUE;;elonmusk;Elon Musk;2009-06-02T20:12:29.000Z;60450502;105;15590;78006;1;0;0;0;0
